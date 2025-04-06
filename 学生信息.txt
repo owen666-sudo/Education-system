@@ -1,0 +1,4 @@
+sid                           name          sex      age     class              did              email                                   tel                   pw
+201600012405 	Mike          male    17        2021           07       mike@student.com            1145141919           1111
+201600012409 	Alice       female    18        2022           01      alice2021@student.com        1929292928        2222
+201600012425        John          male    19       2023      	  06      johncage@student.com        193939393          3333
